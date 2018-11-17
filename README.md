@@ -5,7 +5,7 @@ PS :
 3. Please Enable the CORS Plugin in your browser before running the web app(Link-https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
 
 
-# AWS AI Challenge
+# BTS Global Hackathon
 SHADE Engine to detect the emotions of a person based on his/her social media activity and recommend measures to improve upon the same.
 
 # Problem Statement
